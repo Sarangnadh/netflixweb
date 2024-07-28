@@ -4,7 +4,7 @@ import {getAuth,GoogleAuthProvider} from"firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDBRJWmYxrHkesXe3m8QUngTfllc07lheE",
+
   authDomain: "netflix-45b23.firebaseapp.com",
   projectId: "netflix-45b23",
   storageBucket: "netflix-45b23.appspot.com",
